@@ -1,3 +1,8 @@
+#Author: Annekia Brown
+#Date Created: May 3, 2022
+#Course:ITT103
+#Purpose: To calculate the amount of commssion a salesperson will receive; caluclate the commission rate per sales. To better calculate to class each sales person belongs. 
+
 #FUNCTION calSalesAmt()
 #salesAmt = (salesRecd * commRt + salesAmt)
 #ENDFUNCTION
